@@ -36,6 +36,9 @@ Mouse Launcher è un piccolo launcher di forma circolare che permette l'apertura
 * **Visual Personalization:** Change colors, fonts, transparency levels, and more.
 * **Mouse Support:** You can change the activation trigger; it supports standard buttons as well as **Back** and **Forward** buttons for advanced mice.
 
+### 📥 Download
+Puoi scaricare l'ultima versione compilata (eseguibile) qui:
+[**Scarica Mouse Launcher v1.0.0**](https://github.com/Mave-rick84/MouseLauncher/releases/latest)
 
 ## ⚖️ License & Copyright 
 Licensed under **GPLv3**. Copyright (c) 2026 by Mave-rick84
